@@ -2,7 +2,7 @@
 
 You are free to use the provided images as your Desktop backgrounds. There are Day and Night versions in English, Japanese, German, Italian, Spanish, Portuguese, Chinese and French. These are the languages supported by iA Writer for Mac and iOS.
 
-The font used for the latin languages is iA Writer Duospace. 
+The font used for the latin languages is iA Writer Duospace. https://github.com/iaolo/iA-Fonts
 
 You can find out more about iA Writer under http://ia.net/writer
 
