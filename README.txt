@@ -1,4 +1,4 @@
-# iA Writer Desktop Background Images: About 
+# iA Writer Wallpapers: About 
 
 You are free to use the provided images as your Desktop backgrounds. There are Day and Night versions in English, Japanese, German, Italian, Spanish, Portuguese, Chinese and French. These are the languages supported by iA Writer for Mac and iOS.
 
